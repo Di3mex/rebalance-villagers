@@ -36,3 +36,12 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# Maven #
+#########
+dependency-reduced.pom
+
+# IntelliJ#
+###########
+*.iml
+.idea

@@ -7,6 +7,10 @@
     <url>http://dev.bukkit.org/server-mods/rebalance-villagers/</url>
     <repositories>
         <repository>
+            <id>Bukkit</id>
+            <url>http://repo.bukkit.org/content/groups/public</url>
+        </repository>        
+        <repository>
             <id>cna-public-repos</id>
             <url>http://nexus.cube-nation.de/content/groups/public/</url>
         </repository>
